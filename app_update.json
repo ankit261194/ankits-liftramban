@@ -1,7 +1,7 @@
 {
   "latest_version": "4.3.0",
   "version_code": 430,
-  "force_update": true,
+  "force_update": false,
   "title_en": "New Mega Update v4.3.0 Available!",
   "title_hi": "नया मेगा अपडेट v4.3.0 उपलब्ध है!",
   "release_notes_en": "• 3 New Diagnostic Tools: Motor FLA & Relay, Cable Voltage Drop, Safety Jumper Alert\n• Active User Tracking & Phone Telemetry for Admin\n• Direct Call & WhatsApp Support from Admin Console",
