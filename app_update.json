@@ -1,11 +1,11 @@
 {
-  "latest_version": "4.6.0",
-  "version_code": 460,
+  "latest_version": "4.7.0",
+  "version_code": 470,
   "force_update": true,
-  "title_en": "⚡ Master Update v4.6.0: 38 System Categories & 12 Decision Trees!",
-  "title_hi": "⚡ महा अपडेट v4.6.0: 38 सिस्टम कैटेगरीज व 12 डिसीजन ट्री!",
-  "release_notes_en": "• 38 Master System Categories (A-AL) with full diagnostic coverage\\n• 12 Interactive Diagnostic Decision Trees (Lift not running, Door, VFD, ARD, Brake, Encoder)\\n• 5-Level Fault Severity Architecture & Safety Critical Warning banner\\n• 12-Point Interactive Return-to-Service Checklist\\n• Multi-facet filter sheet (Panels, Severity, Safety-Critical)\\n• Multilingual Hinglish, Hindi & English natural language search",
-  "release_notes_hi": "• 38 मास्टर सिस्टम व पैनल श्रेणियां (A-AL) पूर्ण डायग्नोस्टिक कवरेज के साथ\\n• 12 इंटरएक्टिव डायग्नोस्टिक डिसीजन ट्री (लिफ्ट न चलना, दरवाजा, VFD, ARD, ब्रेक, एन्कोडर)\\n• 5-स्तरीय फॉल्ट गंभीरता प्रणाली व सुरक्षा चेतावनी बैनर\\n• 12-प्वाइंट इंटरएक्टिव सर्विस वापसी चेकलिस्ट\\n• मास्टर फिल्टर शीट (पैनल्स, सेवेरिटी, सेफ्टी-क्रिटिकल)\\n• हिंग्लिश, हिंदी व अंग्रेजी सर्च इंजन",
+  "title_en": "⚡ Mega Update v4.7.0: Printable Paper Bill & 5 Super Diagnostic Tools!",
+  "title_hi": "⚡ महा वरदान अपडेट v4.7.0: प्रिंटर पेपर बिल व 5 नए सुपर टूल्स!",
+  "release_notes_en": "• Printable Paper Bill & Invoice Generator (A4 Print Layout, high-res JPG/PNG export & WhatsApp)\\n• Visual Terminal & Board Pinpointer (Monarch 3000+, STEP AS380, Arkel, Otis multimeter probe guide)\\n• Cross-Brand VFD Parameter Converter across 8 major elevator drive brands\\n• Elevator Sound & Noise Diagnostics Guide (8 acoustic fault waveforms & fixes)\\n• Night Breakdown Emergency SOS & Machine Room Torch Tool\\n• 1-Click Client WhatsApp Explainer Card on every Error Code",
+  "release_notes_hi": "• प्रिंटर पेपर बिल व इनवॉइस जनरेटर (A4 प्रिंट लेआउट, हाई-रेजोल्यूशन JPG सेव व व्हाट्सएप)\\n• विजुअल टर्मिनल पिनपॉइंटर (Monarch 3000+, STEP AS380, Arkel, Otis मल्टीमीटर पिन गाइड)\\n• 8 प्रमुख ब्रांड्स हेतु क्रॉस VFD पैरामीटर कनवर्टर\\n• लिफ्ट साउंड व वाइब्रेशन डायग्नोस्टिक (8 ध्वनियों से बेयरिंग, ब्रेक व रेल फॉल्ट)\\n• नाइट ब्रेकडाउन इमरजेंसी SOS व टॉर्च टूल\\n• हर एरर कोड पर 1-क्लिक ग्राहक को समझाने वाला व्हाट्सएप कार्ड",
   "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v4.0_Ultra.apk",
-  "file_size": "56.0 MB"
+  "file_size": "56.5 MB"
 }
