@@ -1,11 +1,11 @@
 {
-  "latest_version": "4.4.0",
-  "version_code": 440,
+  "latest_version": "4.5.0",
+  "version_code": 450,
   "force_update": true,
-  "title_en": "🔥 New Mandatory Profile & Diagnostics Update v4.4.0!",
-  "title_hi": "🔥 नया अनिवार्य प्रोफाइल व डायग्नोस्टिक्स अपडेट v4.4.0!",
-  "release_notes_en": "• Mandatory Technician Profile Registration & Phone Tracking\n• 3 New Diagnostic Tools (Motor FLA & Relay, Cable Drop, Safety Jumper Alert)\n• 1-Click WhatsApp & Call Support for Admin",
-  "release_notes_hi": "• अनिवार्य तकनीशियन प्रोफाइल व एडमिन फोन ट्रैकिंग\n• 3 नए फील्ड टूल्स (मोटर रिले सेटर, केबल ड्रॉप, सेफ्टी जंपर अलार्म)\n• 1-क्लिक कॉल व व्हाट्सएप सहायता",
+  "title_en": "⚡ Major Update v4.5.0: Search Fixed + 3 New Tools!",
+  "title_hi": "⚡ नया अपडेट v4.5.0: सर्च इंजन फिक्स + 3 नए फील्ड टूल्स!",
+  "release_notes_en": "• Search Engine 100% Fixed: Instant search for err02, e01, or any code with live preview\n• 3 New Field Tools: Motor Overload Relay, Traveling Cable Drop, Safety Jumper Alert\n• Mandatory Technician Profile Registration & Phone Telemetry",
+  "release_notes_hi": "• सर्च इंजन 100% ठीक: अब err02, 02, e01 या कोई भी कोड तुरंत लाइव दिखेगा\n• 3 नए फील्ड टूल्स: मोटर रिले सेटर, केबल ड्रॉप, सेफ्टी जंपर अलर्ट टाइमर\n• अनिवार्य तकनीशियन प्रोफाइल और फोन ट्रैकिंग",
   "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v4.0_Ultra.apk",
-  "file_size": "55.4 MB"
+  "file_size": "55.5 MB"
 }
