@@ -1,11 +1,11 @@
 {
-  "latest_version": "4.9.0",
-  "version_code": 490,
+  "latest_version": "5.0.0",
+  "version_code": 500,
   "force_update": true,
-  "title_en": "⚡ v4.9.0-ULTRA: Live Camera Scanner + Safety Certificate + ARD Bank Tester!",
-  "title_hi": "⚡ v4.9.0-ULTRA: लाइव कैमरा स्कैनर + लिफ्ट सुरक्षा प्रमाण पत्र + ARD बैंक टेस्टर!",
-  "release_notes_en": "• Real Hardware Camera & Gallery Scanner (Point camera at lift screen/PCB to diagnose)\n• Elevator Safety & Fitness Certificate Generator (IS 14665 / EN 81 compliant, printable A4 PDF/JPG with official seal & signature)\n• ARD Battery Bank & Rescue Calculator (36V-72V cell load drop, dead cell locator & rescue trip check)\n• Fault Scanner & Master Problem Solver with 100% genuine Hindi resolutions\n• Accurate multimeter test points, terminal pin probing & 5-step on-site action plan\n• Printable Paper Bill & Invoice Generator (A4 Print Layout, high-res JPG export & WhatsApp)\n• Visual Terminal & Board Pinpointer (Monarch, STEP, Arkel, Otis multimeter guide)\n• Night Breakdown Emergency SOS & Machine Room Torch Tool",
-  "release_notes_hi": "• लाइव हार्डवेयर कैमरा व गैलरी स्कैनर (लिफ्ट डिस्प्ले या PCB के सामने कैमरा रखकर सीधे स्कैन करें)\n• लिफ्ट सुरक्षा व फिटनेस प्रमाण पत्र जनरेटर (IS 14665 मानक, A4 प्रिंट लेआउट, डिजिटल सील व साइन)\n• ARD बैटरी बैंक व ऑटो रेस्क्यू कैलकुलेटर (36V-72V सेल लोड ड्रॉप, डेड सेल पहचान व बैकअप ट्रिप)\n• फॉल्ट स्कैनर व मास्टर समस्या निवारक (100% असली हिंदी ऑन-साइट समाधान)\n• मल्टीमीटर लाइव प्रोब पॉइंट्स, टर्मिनल पिन्स, मूल कारण व समाधान के 5 प्रैक्टिकल कदम)\n• प्रिंटर पेपर बिल व इनवॉइस जनरेटर (A4 प्रिंट लेआउट, हाई-रेजोल्यूशन JPG सेव व व्हाट्सएप)\n• विजुअल टर्मिनल पिनपॉइंटर (Monarch, STEP, Arkel, Otis मल्टीमीटर पिन गाइड)\n• नाइट ब्रेकडाउन इमरजेंसी SOS व टॉर्च टूल",
+  "title_en": "🚀 v5.0.0-ULTRA: Smart & Touchless Elevator Controls + QR Calling + Smart DCS + AI Habits!",
+  "title_hi": "🚀 v5.0.0-ULTRA: स्मार्ट व टचलेस लिफ्ट कंट्रोल + QR कॉलिंग + स्मार्ट DCS + AI आदतें!",
+  "release_notes_en": "• Smart & Touchless Elevator OS (QR Code Scan, Bluetooth BLE Proximity Radar & Auto-Call)\n• Smart Destination Control System (DCS): Pre-boarding dispatching, ETA countdown, and live animated shaft display\n• AI-Based Routine Habit Prediction: Learns daily travel routines & provides contextual 1-tap shortcuts\n• Technician ₹350 IoT Retrofit Guide: Complete schematics & Arduino/ESP32 C++ firmware for Monarch, STEP & relay panels\n• Printable Landing Door QR Sticker Generator with A4 Export\n• Real Hardware Camera & Gallery Fault Scanner\n• Elevator Safety & Fitness Certificate Generator (IS 14665)\n• ARD Battery Bank & Rescue Calculator",
+  "release_notes_hi": "• स्मार्ट व टचलेस लिफ्ट कंट्रोल (QR कोड स्कैन, ब्लूटूथ BLE प्रॉक्सिमिटी रडार व हैंड्स-फ्री ऑटो-कॉल)\n• स्मार्ट डेस्टिनेशन कंट्रोल सिस्टम (DCS): लिफ्ट में चढ़ने से पहले ही फ्लोर चयन, कार आवंटन व लाइव एनिमेटेड शाफ्ट\n• AI दिनचर्या व आदत पूर्वानुमान: समय अनुसार दैनिक आदतों का विश्लेषण व 1-टैप शॉर्टकट\n• तकनीशियन ₹350 IoT रेट्रोफिट गाइड: Monarch, STEP व देशी पैनल के लिए ESP32 वायरिंग व C++ कोड\n• फ्लोर QR कोड स्टिकर जनरेटर (A4 प्रिंट लेआउट)\n• लाइव कैमरा व गैलरी फॉल्ट स्कैनर (100% सटीक हिंदी समाधान)\n• लिफ्ट सुरक्षा व फिटनेस प्रमाण पत्र जनरेटर (IS 14665)\n• ARD बैटरी बैंक व ऑटो रेस्क्यू कैलकुलेटर",
   "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v4.8_Ultra.apk",
-  "file_size": "20.9 MB"
+  "file_size": "21.0 MB"
 }
