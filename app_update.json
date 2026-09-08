@@ -1,12 +1,11 @@
 {
-  "latest_version": "4.2.0",
-  "version_code": 420,
-  "release_date": "08-Sep-2026",
-  "force_update": false,
-  "title_en": "🔥 Mega Live Update Available (v4.2.0 Ultra)!",
-  "title_hi": "🔥 नया लाइव अपडेट आ गया है (वर्जन 4.2.0 अल्ट्रा)!",
-  "release_notes_en": "• Live In-App Update Confirmed & Connected!\n• Ankit Chaudhary Server Sync Active\n• Added Real-Time Elevator Diagnostic Insights\n• Faster Performance & New Circuit Data",
-  "release_notes_hi": "• लाइव इन-ऐप ऑटो-अपडेट सिस्टम पूरी तरह कनेक्टेड!\n• अंकित चौधरी लाइव सर्वर सिंक एक्टिव\n• नए लिफ्ट सर्किट डायग्नोस्टिक्स व कोड्स\n• सुपर-फास्ट परफॉर्मेंस व बेहतर टूल्स",
+  "latest_version": "4.3.0",
+  "version_code": 430,
+  "force_update": true,
+  "title_en": "New Mega Update v4.3.0 Available!",
+  "title_hi": "नया मेगा अपडेट v4.3.0 उपलब्ध है!",
+  "release_notes_en": "• 3 New Diagnostic Tools: Motor FLA & Relay, Cable Voltage Drop, Safety Jumper Alert\n• Active User Tracking & Phone Telemetry for Admin\n• Direct Call & WhatsApp Support from Admin Console",
+  "release_notes_hi": "• 3 नए फील्ड टूल्स: मोटर FLA व रिले सेटर, केबल वोल्टेज ड्रॉप, सेफ्टी जंपर वार्निंग टाइमर\n• एडमिन लाइव यूजर व फोन ट्रैकिंग (सक्रिय फोन व मोबाइल नंबर)\n• सीधा कॉल व व्हाट्सएप सपोर्ट",
   "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v4.0_Ultra.apk",
-  "file_size": "20.1 MB"
+  "file_size": "55.4 MB"
 }
