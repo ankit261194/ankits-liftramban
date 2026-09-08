@@ -1,12 +1,12 @@
 {
-  "latest_version": "4.0.0",
-  "version_code": 400,
+  "latest_version": "4.1.0",
+  "version_code": 410,
   "release_date": "08-Sep-2026",
   "force_update": false,
-  "title_en": "Ankit's LiftRamban v4.0 Mega Ultra Update!",
-  "title_hi": "अंकित का लिफ्ट रामबाण v4.0 का नया मेगा अल्ट्रा अपडेट!",
-  "release_notes_en": "• Added Digital Service Bill & Invoice Generator\n• Added Elevator Tools & Instruments Encyclopedia\n• Expanded to 100+ Global Panels Database\n• Added Encrypted Admin Broadcast Console\n• 100% Bilingual Hindi & English System\n• New Mystic Ankit Custom App Icon",
-  "release_notes_hi": "• डिजिटल सर्विस बिल व इनवॉइस जनरेटर जोड़ा गया\n• लिफ्ट टूल्स विश्वकोश (मेगर, टैकोमीटर, रोप गेज) गाइड\n• दुनिया भर के 100+ पैनल्स के एरर कोड्स शामिल\n• पासवर्ड सुरक्षित एडमिन ब्रॉडकास्ट सेंटर जोड़ा गया\n• सिम्पटम चेकर व सेफ्टी लूप 100% हिंदी में\n• नया मिस्टिक अंकित ऐप लॉन्चर आइकॉन",
+  "title_en": "🚀 New Update Available (v4.1.0 Ultra)!",
+  "title_hi": "🚀 अंकित का लिफ्ट रामबाण v4.1 का नया अपडेट उपलब्ध है!",
+  "release_notes_en": "• Real-time Live Cloud Update Test Successful!\n• 100+ Global Controller Panels Verified\n• Digital Service Bill & Quotation Generator Active\n• Elevator Diagnostic Tools Master Encyclopedia Active\n• 1-Tap Instant Download & Upgrade",
+  "release_notes_hi": "• लाइव क्लाउड ऑटो-अपडेट सिस्टम सफलतापूर्वक एक्टिव!\n• 100+ लिफ्ट पैनल्स के सभी एरर कोड्स उपलब्ध\n• डिजिटल सर्विस बिल और इनवॉइस जनरेटर चालू\n• लिफ्ट टूल्स व मेगर टेस्टिंग की पूरी जानकारी\n• सिर्फ 1-क्लिक में तुरंत नया वर्जन डाउनलोड करें",
   "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v4.0_Ultra.apk",
-  "file_size": "20.0 MB"
+  "file_size": "20.1 MB"
 }
