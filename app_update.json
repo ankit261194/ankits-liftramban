@@ -1,12 +1,12 @@
 {
-  "latest_version": "4.1.0",
-  "version_code": 410,
+  "latest_version": "4.2.0",
+  "version_code": 420,
   "release_date": "08-Sep-2026",
   "force_update": false,
-  "title_en": "🚀 New Update Available (v4.1.0 Ultra)!",
-  "title_hi": "🚀 अंकित का लिफ्ट रामबाण v4.1 का नया अपडेट उपलब्ध है!",
-  "release_notes_en": "• Real-time Live Cloud Update Test Successful!\n• 100+ Global Controller Panels Verified\n• Digital Service Bill & Quotation Generator Active\n• Elevator Diagnostic Tools Master Encyclopedia Active\n• 1-Tap Instant Download & Upgrade",
-  "release_notes_hi": "• लाइव क्लाउड ऑटो-अपडेट सिस्टम सफलतापूर्वक एक्टिव!\n• 100+ लिफ्ट पैनल्स के सभी एरर कोड्स उपलब्ध\n• डिजिटल सर्विस बिल और इनवॉइस जनरेटर चालू\n• लिफ्ट टूल्स व मेगर टेस्टिंग की पूरी जानकारी\n• सिर्फ 1-क्लिक में तुरंत नया वर्जन डाउनलोड करें",
+  "title_en": "🔥 Mega Live Update Available (v4.2.0 Ultra)!",
+  "title_hi": "🔥 नया लाइव अपडेट आ गया है (वर्जन 4.2.0 अल्ट्रा)!",
+  "release_notes_en": "• Live In-App Update Confirmed & Connected!\n• Ankit Chaudhary Server Sync Active\n• Added Real-Time Elevator Diagnostic Insights\n• Faster Performance & New Circuit Data",
+  "release_notes_hi": "• लाइव इन-ऐप ऑटो-अपडेट सिस्टम पूरी तरह कनेक्टेड!\n• अंकित चौधरी लाइव सर्वर सिंक एक्टिव\n• नए लिफ्ट सर्किट डायग्नोस्टिक्स व कोड्स\n• सुपर-फास्ट परफॉर्मेंस व बेहतर टूल्स",
   "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v4.0_Ultra.apk",
   "file_size": "20.1 MB"
 }
