@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.1.0",
-  "version_code": 510,
+  "latest_version": "5.2.0",
+  "version_code": 520,
   "force_update": true,
-  "title_en": "🚀 v5.1.0-ULTRA: AR Part Identification + Circuit Schematics + Live Terminal Overlay!",
-  "title_hi": "🚀 v5.1.0-ULTRA: AR पार्ट पहचान + सर्किट आरेख + लाइव टर्मिनल पिन ओवरले!",
-  "release_notes_en": "• AR / Camera-Based Part Identification: Point camera at unknown elevator motherboards, relays & door drives for instant model identification\n• Live AR Terminal Pin Hotspots: Overlays 110V/120V/130V/24V/BK pins directly on captured board view with multimeter probe guides\n• Complete Circuit Wiring Diagrams: Interactive zoomable schematics with A4 print layout for lost elevator manuals\n• Augmented On-Site Troubleshooting Checklist with interactive pass/fail checkmarks\n• Smart & Touchless Elevator Controls (QR Calling, BLE Proximity & Smart DCS)\n• Elevator Safety & Fitness Certificate Generator (IS 14665)\n• ARD Battery Bank & Rescue Calculator",
-  "release_notes_hi": "• AR / कैमरा आधारित पार्ट पहचान: अनजान मदरबोर्ड, रिले व डोर ड्राइव पर कैमरा रखकर तुरंत मॉडल व ब्रांड पहचानें\n• लाइव AR टर्मिनल पिन ओवरले: फोटो पर ही 110V/120V/130V/24V/BK पिनें व मल्टीमीटर टेस्ट बिंदु दिखेंगे\n• पूर्ण सर्किट वायरिंग आरेख: खोए हुए मैन्युअल्स के लिए ज़ूम करने योग्य पूरा सर्किट डायग्राम व A4 प्रिंट\n• कैमरा स्क्रीन पर स्टेप-बाय-स्टेप ऑन-साइट ट्रबलशूटिंग चेकलिस्ट (पास/फेल टिकमार्क)\n• स्मार्ट व टचलेस लिफ्ट कंट्रोल (QR कॉलिंग, BLE रडार व स्मार्ट DCS)\n• लिफ्ट सुरक्षा व फिटनेस प्रमाण पत्र जनरेटर (IS 14665)\n• ARD बैटरी बैंक व ऑटो रेस्क्यू कैलकुलेटर",
+  "title_en": "🚀 v5.2.0-ULTRA: 36 Colors, 52 Themes, Fonts, Buttons & Master Admin Center!",
+  "title_hi": "🚀 v5.2.0-ULTRA: 36 रंग, 52 थीम्स, फॉन्ट्स, बटन स्टाइल्स व मास्टर एडमिन कंट्रोल!",
+  "release_notes_en": "• 36 Precision Color Palettes: Cyber, Industrial, Safety, Brand & OLED\n• 52 Specialist Themes: Dark Industrial, Brand Signatures, Workshop Light & Field Specialist\n• 5 Typography Fonts (Rajdhani, Inter, Fira Code, Roboto, Teko) & 6 Button Styles\n• Master Admin Center: PIN lock (7890), Company Custom Branding (Name, GST, Color), Global Theme Lock, Enterprise Broadcast & Factory Reset\n• 100% Pure Native Diagnostic Architecture (Zero AI traces/labels)\n• AR / Camera-Based Part Identification & Wiring Diagrams (v5.1)\n• Smart & Touchless Elevator Controls (QR, BLE & Smart DCS) (v5.0)",
+  "release_notes_hi": "• 36 एक्सेंट व सेफ्टी रंग पैलेट: साइबर, इंडस्ट्रियल, सेफ्टी, ब्रांड व OLED मोड्स\n• 52 स्पेशलिस्ट लिफ्ट थीम्स: डार्क इंडस्ट्रियल, ब्रांड सिग्नेचर (Monarch, STEP, Otis, Schindler, KONE आदि), वर्कशॉप लाइट व फील्ड थीम्स\n• 5 टाइपोग्राफी फॉन्ट व 6 बटन शैलियाँ (साइबर ग्लो, न्यूमॉर्फिक, फ्लैट, पिल, बेवेल्ड स्टील, ग्रैिएंट) + कॉर्नर रेडियस स्लाइडर\n• मास्टर एडमिन कंट्रोल सेंटर: पिन सुरक्षा (7890), कंपनी ब्रांडिंग (नाम, GST, रंग), ग्लोबल थीम लॉक, एंटरप्राइज ब्रॉडकास्ट व फ़ैक्टरी रीसेट\n• 100% शुद्ध नेटिव इंजीनियरिंग शब्दावली (पूरी तरह गोपनीय मास्टर डायग्नोस्टिक कोर)\n• AR पार्ट पहचान व सर्किट वायरिंग आरेख (v5.1)\n• स्मार्ट व टचलेस लिफ्ट कंट्रोल (QR कॉलिंग, BLE रडार व स्मार्ट DCS) (v5.0)",
   "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v4.8_Ultra.apk",
   "file_size": "21.2 MB"
 }
