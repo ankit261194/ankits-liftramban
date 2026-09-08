@@ -1,11 +1,11 @@
 {
-  "latest_version": "4.7.0",
-  "version_code": 470,
+  "latest_version": "4.8.0",
+  "version_code": 480,
   "force_update": true,
-  "title_en": "⚡ Mega Update v4.7.0: Printable Paper Bill & 5 Super Diagnostic Tools!",
-  "title_hi": "⚡ महा वरदान अपडेट v4.7.0: प्रिंटर पेपर बिल व 5 नए सुपर टूल्स!",
-  "release_notes_en": "• Printable Paper Bill & Invoice Generator (A4 Print Layout, high-res JPG/PNG export & WhatsApp)\\n• Visual Terminal & Board Pinpointer (Monarch 3000+, STEP AS380, Arkel, Otis multimeter probe guide)\\n• Cross-Brand VFD Parameter Converter across 8 major elevator drive brands\\n• Elevator Sound & Noise Diagnostics Guide (8 acoustic fault waveforms & fixes)\\n• Night Breakdown Emergency SOS & Machine Room Torch Tool\\n• 1-Click Client WhatsApp Explainer Card on every Error Code",
-  "release_notes_hi": "• प्रिंटर पेपर बिल व इनवॉइस जनरेटर (A4 प्रिंट लेआउट, हाई-रेजोल्यूशन JPG सेव व व्हाट्सएप)\\n• विजुअल टर्मिनल पिनपॉइंटर (Monarch 3000+, STEP AS380, Arkel, Otis मल्टीमीटर पिन गाइड)\\n• 8 प्रमुख ब्रांड्स हेतु क्रॉस VFD पैरामीटर कनवर्टर\\n• लिफ्ट साउंड व वाइब्रेशन डायग्नोस्टिक (8 ध्वनियों से बेयरिंग, ब्रेक व रेल फॉल्ट)\\n• नाइट ब्रेकडाउन इमरजेंसी SOS व टॉर्च टूल\\n• हर एरर कोड पर 1-क्लिक ग्राहक को समझाने वाला व्हाट्सएप कार्ड",
+  "title_en": "⚡ Master Update v4.8.0: Fault Scanner & Deep Problem Solver!",
+  "title_hi": "⚡ महा अपडेट v4.8.0: फॉल्ट स्कैनर व मास्टर समस्या निवारक!",
+  "release_notes_en": "• Fault Scanner & Master Problem Solver (Optical viewfinder scan, voice input & 100% genuine Hindi resolutions)\\n• Accurate multimeter test points, terminal pin probing, root causes & 5-step on-site action plan\\n• Printable Paper Bill & Invoice Generator (A4 Print Layout, high-res JPG export & WhatsApp)\\n• Visual Terminal & Board Pinpointer (Monarch, STEP, Arkel, Otis multimeter guide)\\n• Cross-Brand VFD Parameter Converter across 8 major elevator drive brands\\n• Elevator Sound & Noise Diagnostics Guide (8 acoustic fault waveforms & fixes)\\n• Night Breakdown Emergency SOS & Machine Room Torch Tool",
+  "release_notes_hi": "• फॉल्ट स्कैनर व मास्टर समस्या निवारक (डिस्प्ले स्कैन, वॉइस इनपुट व 100% असली हिंदी ऑन-साइट समाधान)\\n• मल्टीमीटर लाइव प्रोब पॉइंट्स, टर्मिनल पिन्स, मूल कारण व समाधान के 5 प्रैक्टिकल कदम\\n• प्रिंटर पेपर बिल व इनवॉइस जनरेटर (A4 प्रिंट लेआउट, हाई-रेजोल्यूशन JPG सेव व व्हाट्सएप)\\n• विजुअल टर्मिनल पिनपॉइंटर (Monarch, STEP, Arkel, Otis मल्टीमीटर पिन गाइड)\\n• 8 प्रमुख ब्रांड्स हेतु क्रॉस VFD पैरामीटर कनवर्टर\\n• लिफ्ट साउंड व वाइब्रेशन डायग्नोस्टिक (8 ध्वनियों से बेयरिंग, ब्रेक व रेल फॉल्ट)\\n• नाइट ब्रेकडाउन इमरजेंसी SOS व टॉर्च टूल",
   "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v4.0_Ultra.apk",
-  "file_size": "56.5 MB"
+  "file_size": "57.5 MB"
 }
