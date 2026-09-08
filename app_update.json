@@ -1,11 +1,11 @@
 {
-  "latest_version": "4.5.0",
-  "version_code": 450,
+  "latest_version": "4.5.1",
+  "version_code": 451,
   "force_update": true,
-  "title_en": "⚡ Major Update v4.5.0: Search Fixed + 3 New Tools!",
-  "title_hi": "⚡ नया अपडेट v4.5.0: सर्च इंजन फिक्स + 3 नए फील्ड टूल्स!",
-  "release_notes_en": "• Search Engine 100% Fixed: Instant search for err02, e01, or any code with live preview\n• 3 New Field Tools: Motor Overload Relay, Traveling Cable Drop, Safety Jumper Alert\n• Mandatory Technician Profile Registration & Phone Telemetry",
-  "release_notes_hi": "• सर्च इंजन 100% ठीक: अब err02, 02, e01 या कोई भी कोड तुरंत लाइव दिखेगा\n• 3 नए फील्ड टूल्स: मोटर रिले सेटर, केबल ड्रॉप, सेफ्टी जंपर अलर्ट टाइमर\n• अनिवार्य तकनीशियन प्रोफाइल और फोन ट्रैकिंग",
+  "title_en": "⚡ Major Update v4.5.1: Direct Voice Search & Custom Names!",
+  "title_hi": "⚡ नया अपडेट v4.5.1: सीधा वॉइस सर्च और पर्सनलाइज़्ड नाम!",
+  "release_notes_en": "• Voice search now directly searches and opens error code\n• All congratulations and alerts dynamically display your registered name\n• Search bar error code matching 100% resolved\n• Automatic version sync mechanism",
+  "release_notes_hi": "• वॉइस सर्च में अब तुरंत सीधा एरर कोड खुलेगा\n• बधाई संदेश व नोटिफिकेशन्स में अब आपका अपना नाम दिखेगा\n• सर्च बार एरर कोड समाधान\n• स्वचालित वर्जन सिंक सिस्टम",
   "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v4.0_Ultra.apk",
   "file_size": "55.5 MB"
 }
