@@ -1,0 +1,12 @@
+{
+  "latest_version": "3.5.0",
+  "version_code": 350,
+  "release_date": "08-Sep-2026",
+  "force_update": false,
+  "title_en": "Ankit's LiftRamban v3.5 Ultra Update Available!",
+  "title_hi": "अंकित का लिफ्ट रामबाण v3.5 का नया अल्ट्रा अपडेट उपलब्ध है!",
+  "release_notes_en": "• Added Virtual Multimeter & Circuit Simulator\n• Added DIP-Switch & Floor Binary Address Decoder\n• Added Elevator Mechanics & Counterweight Balancing Calculator\n• Added 1-Tap Site Job Sheet Generator\n• Added Full Theme & Display Customizer\n• Complete Bilingual Hindi & English Master Guide",
+  "release_notes_hi": "• वर्चुअल मल्टीमीटर और लाइव सर्किट सिम्युलेटर जोड़ा गया\n• DIP-स्विच और फ्लोर बाइनरी एड्रेस डिकोडर जोड़ा गया\n• मैकेनिकल व काउंटरवेट बैलेंसिंग कैलकुलेटर जोड़ा गया\n• 1-टैप डिजिटल साइट जॉब शीट जनरेटर जोड़ा गया\n• पूरी तरह कस्टमाइज़ेबल थीम और कलर सेटिंग्स\n• हिंदी व अंग्रेज़ी में संपूर्ण ऐप उपयोग मास्टर गाइड",
+  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v3.5.0/Ankit_LiftRamban_v3.5_Ultra.apk",
+  "file_size": "20.0 MB"
+}
