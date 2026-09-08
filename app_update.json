@@ -1,11 +1,11 @@
 {
-  "latest_version": "4.5.1",
-  "version_code": 451,
+  "latest_version": "4.6.0",
+  "version_code": 460,
   "force_update": true,
-  "title_en": "⚡ Major Update v4.5.1: Direct Voice Search & Custom Names!",
-  "title_hi": "⚡ नया अपडेट v4.5.1: सीधा वॉइस सर्च और पर्सनलाइज़्ड नाम!",
-  "release_notes_en": "• Voice search now directly searches and opens error code\n• All congratulations and alerts dynamically display your registered name\n• Search bar error code matching 100% resolved\n• Automatic version sync mechanism",
-  "release_notes_hi": "• वॉइस सर्च में अब तुरंत सीधा एरर कोड खुलेगा\n• बधाई संदेश व नोटिफिकेशन्स में अब आपका अपना नाम दिखेगा\n• सर्च बार एरर कोड समाधान\n• स्वचालित वर्जन सिंक सिस्टम",
+  "title_en": "⚡ Master Update v4.6.0: 38 System Categories & 12 Decision Trees!",
+  "title_hi": "⚡ महा अपडेट v4.6.0: 38 सिस्टम कैटेगरीज व 12 डिसीजन ट्री!",
+  "release_notes_en": "• 38 Master System Categories (A-AL) with full diagnostic coverage\\n• 12 Interactive Diagnostic Decision Trees (Lift not running, Door, VFD, ARD, Brake, Encoder)\\n• 5-Level Fault Severity Architecture & Safety Critical Warning banner\\n• 12-Point Interactive Return-to-Service Checklist\\n• Multi-facet filter sheet (Panels, Severity, Safety-Critical)\\n• Multilingual Hinglish, Hindi & English natural language search",
+  "release_notes_hi": "• 38 मास्टर सिस्टम व पैनल श्रेणियां (A-AL) पूर्ण डायग्नोस्टिक कवरेज के साथ\\n• 12 इंटरएक्टिव डायग्नोस्टिक डिसीजन ट्री (लिफ्ट न चलना, दरवाजा, VFD, ARD, ब्रेक, एन्कोडर)\\n• 5-स्तरीय फॉल्ट गंभीरता प्रणाली व सुरक्षा चेतावनी बैनर\\n• 12-प्वाइंट इंटरएक्टिव सर्विस वापसी चेकलिस्ट\\n• मास्टर फिल्टर शीट (पैनल्स, सेवेरिटी, सेफ्टी-क्रिटिकल)\\n• हिंग्लिश, हिंदी व अंग्रेजी सर्च इंजन",
   "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v4.0_Ultra.apk",
-  "file_size": "55.5 MB"
+  "file_size": "56.0 MB"
 }
