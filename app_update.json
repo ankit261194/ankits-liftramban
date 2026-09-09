@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.8.5",
-  "version_code": 585,
+  "latest_version": "5.8.6",
+  "version_code": 586,
   "force_update": true,
-  "title_en": "💬 v5.8.5-ULTRA: WhatsApp-Style Technician Live Chat Hub & Community!",
-  "title_hi": "💬 v5.8.5-ULTRA: व्हाट्सएप-स्टाइल तकनीशियन लाइव चैट हब व कम्युनिटी!",
-  "release_notes_en": "• WhatsApp-Style Live Tech Chat: Connect directly with All India Elevator Technicians and Lead Engineer Ankit Chaudhary (8533955333) in an authentic WhatsApp interface.\n• Smart Technical Fault Assistance: Instant expert guidance for Monarch NICE, STEP AS380, Arkel, Otis, Schindler, and KONE elevator systems.\n• Media & Voice Notes: Share site breakdown photos (Camera/Gallery), job sheet docs, and audio notes.\n• Instant Header & Action Bar Access: WhatsApp green chat pill in app bar header with unread count badge, bottom action bar, and dashboard showcase card.\n• Military-Grade Code Obfuscation: Core application binaries compiled with native symbol stripping and R8 anti-tamper hardening.",
-  "release_notes_hi": "• व्हाट्सएप-स्टाइल तकनीशियन लाइव चैट: व्हाट्सएप जैसे परिचित इंटरफेस में ऑल इंडिया तकनीशियन कम्युनिटी व मुख्य इंजीनियर अंकित चौधरी (8533955333) से सीधी चैट।\n• स्मार्ट टेक्निकल रिप्लाई इंजन: लिफ्ट के किसी भी एरर कोड (Monarch NICE 3000+, STEP AS380, Arkel, Otis, KONE) या वायरिंग फॉल्ट पर तत्काल समाधान।\n• मल्टीमीडिया व वॉयस नोट्स: साइट फोटो (कैमरा/गैलरी), जॉब शीट डॉक्यूमेंट व वॉयस नोट्स भेजने की पूर्ण सुविधा।\n• हेडर व एक्शन बार से 1-टैप एक्सेस: ऐप बार हेडर (अनरीड बैज के साथ), बॉटम बार और डैशबोर्ड शोकेस कार्ड से तुरंत चैट ओपन करें।\n• सैन्य-ग्रेड कोड एन्क्रिप्शन: पूर्ण AOT बाइनरी ऑब्फस्केशन (--obfuscate) और R8 सुरक्षा हार्डनिंग।",
-  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v5.8.5_Ultra.apk",
+  "title_en": "🔒 v5.8.6-ULTRA: 100% Private Role-Based Technician Issue Chat & Live Inbox!",
+  "title_hi": "🔒 v5.8.6-ULTRA: 100% गोपनीय व रोल-बेस्ड तकनीशियन समस्या चैट सिस्टम!",
+  "release_notes_en": "• Strict Role-Based Privacy Isolation: Regular technicians can submit elevator breakdown problems, site photos, and voice notes. They ONLY see their own private support thread—zero cross-user leakage.\n• Company Admin Inbox: Company Admins only see and reply to issues submitted by their own technicians.\n• Super Admin Master Inbox: Lead Engineer Ankit Chaudhary (8533955333) has global visibility with company-wise filters and direct guidance.\n• AOT Obfuscation & R8 Shield: Native symbol stripping and military-grade hardening.",
+  "release_notes_hi": "• 100% गोपनीय व रोल-बेस्ड प्राइवेसी: सामान्य तकनीशियन अपनी लिफ्ट समस्याएं, फोटो व वॉयस नोट भेज सकते हैं जो केवल सुपर एडमिन व उनके कंपनी एडमिन को दिखेंगी। किसी अन्य यूज़र को किसी की चैट नहीं दिखेगी।\n• कंपनी एडमिन इनबॉक्स: कंपनी एडमिन केवल अपनी कंपनी के तकनीशियनों की समस्याएं देख व रिप्लाई कर सकते हैं।\n• सुपर एडमिन मास्टर इनबॉक्स: मुख्य इंजीनियर अंकित चौधरी (8533955333) सभी कंपनियों व यूज़र्स की समस्याएं देखकर सीधा समाधान देते हैं।\n• कोड आबफस्केशन व R8 सुरक्षा: पूर्ण AOT बाइनरी ऑब्फस्केशन व सुरक्षा हार्डनिंग।",
+  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v5.8.6_Ultra.apk",
   "file_size": "21.1 MB"
 }
