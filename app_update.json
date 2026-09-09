@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.8.4",
-  "version_code": 584,
+  "latest_version": "5.8.5",
+  "version_code": 585,
   "force_update": true,
-  "title_en": "🎥 v5.8.4-ULTRA: 100% Ad-Free YouTube Pro Player & Smart Voice Search!",
-  "title_hi": "🎥 v5.8.4-ULTRA: 100% ऐड-फ्री यूट्यूब प्रो प्लेयर व स्मार्ट सर्च कंसोल!",
-  "release_notes_en": "• 100% Ad-Free YouTube Pro: Watch elevator wiring, VFD tuning, and repair video tutorials with zero ads or interruptions.\n• Smart Search & Voice Console: Full-text search with instant clear, voice input recognition, and 11+ one-tap topic chips (Monarch, STEP, Arkel, Otis, etc.).\n• Intelligent Ad-Shield Engine: Background continuous DOM interceptor auto-skips pre-roll/mid-roll ads and suppresses promo elements.\n• Instant Header & Action Bar Access: Dedicated red YouTube button in dashboard title bar and bottom quick action bar.\n• Military-Grade Code Obfuscation: Core application binaries protected with native symbol stripping and R8 anti-tamper hardening.",
-  "release_notes_hi": "• 100% ऐड-फ्री यूट्यूब प्लेयर: लिफ्ट इंस्टॉलेशन, वायरिंग और रिपेयरिंग के सभी यूट्यूब वीडियो बिना किसी विज्ञापन या रुकावट के देखें।\n• स्मार्ट सर्च कंसोल: रियल-टाइम सर्च बार, वॉयस इनपुट (बोलकर खोजें) और 11+ क्विक टॉपिक फिल्टर्स (Monarch, STEP, Arkel, Otis, KONE आदि)।\n• ऑटो-स्किप और ऐड-शील्ड इंजन: वीडियो विज्ञापनों और प्रमोटेड बैनर्स को बैकग्राउंड में मिलीसेकंड्स में स्वतः ब्लॉक व स्किप करता है।\n• ऐप हेडर व एक्शन बार शॉर्टकट: होम स्क्रीन के शीर्ष हेडर और क्विक एक्शन बार से 1-टैप में यूट्यूब प्लेयर शुरू करें।\n• सैन्य-ग्रेड कोड एन्क्रिप्शन: पूर्ण AOT बाइनरी ऑब्फस्केशन (--obfuscate) और R8 एंटी-रिवर्स प्रोटेक्शन सुरक्षित।",
-  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v5.8.4_Ultra.apk",
-  "file_size": "21.2 MB"
+  "title_en": "💬 v5.8.5-ULTRA: WhatsApp-Style Technician Live Chat Hub & Community!",
+  "title_hi": "💬 v5.8.5-ULTRA: व्हाट्सएप-स्टाइल तकनीशियन लाइव चैट हब व कम्युनिटी!",
+  "release_notes_en": "• WhatsApp-Style Live Tech Chat: Connect directly with All India Elevator Technicians and Lead Engineer Ankit Chaudhary (8533955333) in an authentic WhatsApp interface.\n• Smart Technical Fault Assistance: Instant expert guidance for Monarch NICE, STEP AS380, Arkel, Otis, Schindler, and KONE elevator systems.\n• Media & Voice Notes: Share site breakdown photos (Camera/Gallery), job sheet docs, and audio notes.\n• Instant Header & Action Bar Access: WhatsApp green chat pill in app bar header with unread count badge, bottom action bar, and dashboard showcase card.\n• Military-Grade Code Obfuscation: Core application binaries compiled with native symbol stripping and R8 anti-tamper hardening.",
+  "release_notes_hi": "• व्हाट्सएप-स्टाइल तकनीशियन लाइव चैट: व्हाट्सएप जैसे परिचित इंटरफेस में ऑल इंडिया तकनीशियन कम्युनिटी व मुख्य इंजीनियर अंकित चौधरी (8533955333) से सीधी चैट।\n• स्मार्ट टेक्निकल रिप्लाई इंजन: लिफ्ट के किसी भी एरर कोड (Monarch NICE 3000+, STEP AS380, Arkel, Otis, KONE) या वायरिंग फॉल्ट पर तत्काल समाधान।\n• मल्टीमीडिया व वॉयस नोट्स: साइट फोटो (कैमरा/गैलरी), जॉब शीट डॉक्यूमेंट व वॉयस नोट्स भेजने की पूर्ण सुविधा।\n• हेडर व एक्शन बार से 1-टैप एक्सेस: ऐप बार हेडर (अनरीड बैज के साथ), बॉटम बार और डैशबोर्ड शोकेस कार्ड से तुरंत चैट ओपन करें।\n• सैन्य-ग्रेड कोड एन्क्रिप्शन: पूर्ण AOT बाइनरी ऑब्फस्केशन (--obfuscate) और R8 सुरक्षा हार्डनिंग।",
+  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v5.8.5_Ultra.apk",
+  "file_size": "21.1 MB"
 }
