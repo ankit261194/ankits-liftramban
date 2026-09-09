@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.8.3",
-  "version_code": 583,
+  "latest_version": "5.8.4",
+  "version_code": 584,
   "force_update": true,
-  "title_en": "🛡️ v5.8.3-ULTRA: Military-Grade Code Obfuscation & Anti-Tamper Protection!",
-  "title_hi": "🛡️ v5.8.3-ULTRA: सैन्य-ग्रेड कोड एन्क्रिप्शन व एंटी-टैम्पर सुरक्षा अपडेट!",
-  "release_notes_en": "• Full AOT Binary Obfuscation: Core application binaries compiled with native symbol stripping and identifier scrambling (--obfuscate, --split-debug-info) preventing reverse-engineering across all decompilers and hex viewers.\\n• Android R8 / ProGuard Engine Hardening: Multi-level bytecode obfuscation, package flattening, line number removal, and resource shrinking implemented.\\n• AppSecurityVault Architecture: Zero-plaintext storage of master access keys with constant-time cryptographic verification and side-channel attack mitigation.\\n• Anti-Tampering Runtime Integrity: Active detection against binary patching, debugging hooks, and unauthorized modification attempts.\\n• Verified Performance Patch v5.8.3: Optimized memory footprint, ultra-compact native binary execution, and rock-solid system stability.",
-  "release_notes_hi": "• पूर्ण AOT बाइनरी ऑब्फस्केशन: एप्लिकेशन कोड को सिंबल स्ट्रिपिंग व कोड स्क्रैम्बलिंग के साथ कंपाइल किया गया है, जिससे कोई भी डिकंपाइलर, एडिटर या हेक्स व्यूअर कोड नहीं देख सकता।\\n• Android R8 व ProGuard हार्डनिंग: मल्टी-लेवल बाइटकोड ऑब्फस्केशन, पैकेज फ्लैटनिंग, लाइन नंबर स्ट्रिपिंग व रिसोर्स श्रिंकिंग।\\n• AppSecurityVault एन्क्रिप्शन: मास्टर क्रेडेंशियल्स बिना किसी प्लेनटेक्स्ट के एन्क्रिप्टेड बाइट्स में सुरक्षित, कॉन्स्टेंट-टाइम वेरिफिकेशन के साथ।\\n• एंटी-टैम्पर रनटाइम अखंडता: कोड मॉडिफिकेशन, डिबगिंग व अनधिकृत संपादन के विरुद्ध पूर्ण सुरक्षा चक्र।\\n• प्रमाणित सुरक्षा व परफॉर्मेंस पैच v5.8.3: हल्का APK साइज, तीव्र निष्पादन व त्रुटिहीन स्थिरता।",
-  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v5.8.3_Ultra.apk",
-  "file_size": "21.0 MB"
+  "title_en": "🎥 v5.8.4-ULTRA: 100% Ad-Free YouTube Pro Player & Smart Voice Search!",
+  "title_hi": "🎥 v5.8.4-ULTRA: 100% ऐड-फ्री यूट्यूब प्रो प्लेयर व स्मार्ट सर्च कंसोल!",
+  "release_notes_en": "• 100% Ad-Free YouTube Pro: Watch elevator wiring, VFD tuning, and repair video tutorials with zero ads or interruptions.\n• Smart Search & Voice Console: Full-text search with instant clear, voice input recognition, and 11+ one-tap topic chips (Monarch, STEP, Arkel, Otis, etc.).\n• Intelligent Ad-Shield Engine: Background continuous DOM interceptor auto-skips pre-roll/mid-roll ads and suppresses promo elements.\n• Instant Header & Action Bar Access: Dedicated red YouTube button in dashboard title bar and bottom quick action bar.\n• Military-Grade Code Obfuscation: Core application binaries protected with native symbol stripping and R8 anti-tamper hardening.",
+  "release_notes_hi": "• 100% ऐड-फ्री यूट्यूब प्लेयर: लिफ्ट इंस्टॉलेशन, वायरिंग और रिपेयरिंग के सभी यूट्यूब वीडियो बिना किसी विज्ञापन या रुकावट के देखें।\n• स्मार्ट सर्च कंसोल: रियल-टाइम सर्च बार, वॉयस इनपुट (बोलकर खोजें) और 11+ क्विक टॉपिक फिल्टर्स (Monarch, STEP, Arkel, Otis, KONE आदि)।\n• ऑटो-स्किप और ऐड-शील्ड इंजन: वीडियो विज्ञापनों और प्रमोटेड बैनर्स को बैकग्राउंड में मिलीसेकंड्स में स्वतः ब्लॉक व स्किप करता है।\n• ऐप हेडर व एक्शन बार शॉर्टकट: होम स्क्रीन के शीर्ष हेडर और क्विक एक्शन बार से 1-टैप में यूट्यूब प्लेयर शुरू करें।\n• सैन्य-ग्रेड कोड एन्क्रिप्शन: पूर्ण AOT बाइनरी ऑब्फस्केशन (--obfuscate) और R8 एंटी-रिवर्स प्रोटेक्शन सुरक्षित।",
+  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v5.8.4_Ultra.apk",
+  "file_size": "21.2 MB"
 }
