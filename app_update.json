@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.9.0",
-  "version_code": 590,
+  "latest_version": "5.9.1",
+  "version_code": 591,
   "force_update": false,
-  "title_en": "⚡ v5.9.0 ULTIMATE: 32 Pro Tools, DSP FFT & Vector Schematics!",
-  "title_hi": "⚡ v5.9.0 अल्टीमेट: 32 प्रो टूल्स, DSP FFT व वेक्टर स्कीमेटिक्स!",
-  "release_notes_en": "• Real DSP Cooley-Tukey Radix-2 FFT Acoustic Motor Analyzer\n• Interactive Vector CAD Blueprint Schematics (Monarch, Step, Otis, KONE)\n• 7-Segment LED Camera OCR Scanner & Segment Picker\n• USB-OTG Modbus RTU / RS-485 Serial Motherboard Diagnostic Driver\n• Encrypted 1-Tap Offline/Cloud Backup Vault (.elevx)\n• 7 Regional Languages (Hindi, Marathi, Gujarati, Tamil, Telugu, Bengali, English)\n• OEM Service Tool Simulator (Otis SV-Tool, Schindler CADI, KONE UI, Monarch autotune)",
-  "release_notes_hi": "• रियल डीएसपी कूली-टुकी Radix-2 FFT मोटर अकॉस्टिक एनालाइज़र\n• इंटरएक्टिव वेक्टर सीएडी ब्लूप्रिंट स्कीमेटिक्स (मोनार्क, स्टेप, ओटिस, कोने)\n• 7-सेगमेंट एलईडी कैमरा ओसीआर स्कैनर व सेगमेंट पिकर\n• यूएसबी-ओटीजी मोडबस आरटीयू / RS-485 सीरियल मदरबोर्ड डायग्नोस्टिक ड्राइवर\n• एन्क्रिप्टेड 1-टैप ऑफलाइन/क्लाउड बैकअप वॉल्ट (.elevx)\n• 7 क्षेत्रीय भाषाएं (हिंदी, मराठी, गुजराती, तमिल, तेलुगु, बंगाली, अंग्रेजी)\n• ओईएम सर्विस टूल सिम्युलेटर (ओटिस ब्लू-टूल, शिंडलर काडी, कोने यूआई, मोनार्क)",
-  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v4.0.0/Ankit_LiftRamban_v5.8.6_Ultra.apk",
-  "file_size": "21.5 MB"
+  "title_en": "⚡ v5.9.1 ULTIMATE: AMC Site Logbook, Hindi Voice Guide & Johnson/Arkel Schematics!",
+  "title_hi": "⚡ v5.9.1 अल्टीमेट: AMC साइट लॉगबुक, हिंदी वॉयस गाइड व जॉन्सन/आर्केल!",
+  "release_notes_en": "• Full AMC Site Maintenance Directory & Lifespan Logbook\n• Hands-Free Hindi Voice Guide (Step-by-step Audio Troubleshooting)\n• Johnson Lifts (J-Smart/Micro32) & Arkel ARCODE Vector CAD Schematics\n• 7-Segment Camera Dark Hoistway Anti-Glare Optical Filter\n• Permanent Auto-Update Loop Resolution (v5.9.1 / 591 Synchronized)",
+  "release_notes_hi": "• AMC साइट मेंटेनेंस डायरेक्टरी व रोप/बैटरी लाइफ लॉगबुक\n• हैंड्स-फ्री हिंदी वॉयस गाइड (बोलकर समाधान सुनाना)\n• जॉन्सन लिफ्ट्स (J-Smart) व आर्केल ARCODE वेक्टर स्कीमेटिक्स\n• 7-सेगमेंट कैमरा डार्क विज़न एंटी-ग्लेयर फ़िल्टर\n• आटो-अपडेट लूप का स्थायी समाधान (v5.9.1 सिंक्रोनाइज्ड)",
+  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v5.9.1/Ankit_EleveX_v5.9.1_Release.apk",
+  "file_size": "22.8 MB"
 }
