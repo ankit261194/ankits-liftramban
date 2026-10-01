@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.9.5",
-  "version_code": 595,
+  "latest_version": "5.9.6",
+  "version_code": 596,
   "force_update": false,
-  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.5 Available!",
-  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.5 नया अपडेट उपलब्ध!",
-  "release_notes_en": "• Multi-Role Login & Signup: 4 Roles (Technician, Company, Owner, Normal User).\n• Future-Proof KYC: Masked Aadhaar (AES-256), PAN, GSTIN, Office Address, Pincode.\n• Hostinger Stealth Cloud Gateway (shribalajikripadham.online).\n• Offline & Online Hybrid Architecture.",
-  "release_notes_hi": "• मल्टी-रोल लॉगिन व साइनअप: चारों भूमिकाओं (तकनीशियन, कंपनी, ओनर, सामान्य यूजर) के लिए अलग-अलग स्क्रीन।\n• भविष्य-सुरक्षित KYC: मास्क्ड आधार (AES-256 एन्क्रिप्टेड), पैन कार्ड, GSTIN, ऑफिस पता, पिनकोड।\n• होस्टिंगर गुप्त क्लाउड गेटवे (shribalajikripadham.online) सपोर्ट।\n• ऑनलाइन व ऑफलाइन हाइब्रिड आर्किटेक्चर।",
-  "apk_download_url": "https://tinyurl.com/elevex-secure-ota-v595",
-  "file_size": "66.6 MB"
+  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.6 Available!",
+  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.6 नया अपडेट उपलब्ध!",
+  "release_notes_en": "• Persistent Device Session: Login once, never asked for OTP again.\n• Bulletproof Anti-Misuse Shield: 60s cooldown, max 3 OTPs/day/number, IP rate limit.\n• Fast2SMS OTP Gateway Integration.\n• Zero-Cost MPIN login option.",
+  "release_notes_hi": "• स्थायी डिवाइस सत्र (Persistent Session): एक बार लॉगिन करें, फोन पर दोबारा कभी OTP की आवश्यकता नहीं।\n• दुरुपयोग-रोधी कवच (Anti-Misuse Shield): 60 सेकंड कूलडाउन, प्रतिदिन अधिकतम 3 OTP सीमा, IP रेट लिमिटिंग।\n• Fast2SMS क्विक OTP गेटवे सपोर्ट।\n• शून्य-खर्च MPIN लॉगिन विकल्प।",
+  "apk_download_url": "https://tinyurl.com/elevex-secure-ota-v596",
+  "file_size": "66.7 MB"
 }
