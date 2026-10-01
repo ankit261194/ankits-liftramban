@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.9.10",
-  "version_code": 600,
+  "latest_version": "5.9.11",
+  "version_code": 601,
   "force_update": false,
-  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.10 Available!",
-  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.10 नया अपडेट उपलब्ध!",
-  "release_notes_en": "• Official OneSignal Push Notifications: Live alerts & sirens for breakdowns.\n• 1 KM to 10,000 KM operating range with live tag sync.\n• Hostinger Stealth Cloud Gateway synchronized.\n• All 32+ tools are 100% Free forever.",
-  "release_notes_hi": "• OneSignal लाइव पुश नोटिफिकेशन: ब्रेकडाउन कॉल्स व टेंडर्स पर रियल-टाइम सायरन अलर्ट।\n• 1 KM से 10,000 KM कार्य दायरा व ऑटो टैग सिंक।\n• Hostinger क्लाउड गेटवे लाइव कनेक्टेड।\n• सभी 32+ इंडस्ट्रियल टूल्स 100% मुफ़्त।",
-  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v5.9.10/Ankit_EleveX_v5.9.10_Release.apk",
-  "file_size": "23.4 MB"
+  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.11 Available!",
+  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.11 नया अपडेट उपलब्ध!",
+  "release_notes_en": "• Official Razorpay Payment Gateway: UPI (GPay, PhonePe, Paytm), Cards & NetBanking direct settlement.\n• Instant Digital Invoice & 180-Day Pass activation.\n• OneSignal Push Notification Engine with Siren.\n• 100% Free Forever for all 32+ Industrial Diagnostics Tools.",
+  "release_notes_hi": "• आधिकारिक Razorpay पेमेंट गेटवे: UPI (GPay, PhonePe, Paytm), कार्ड्स व नेटबैंकिंग से बैंक खाता सेटलमेंट।\n• त्वरित डिजिटल इनवॉइस रसीद व 180-दिन पास सक्रियण।\n• OneSignal लाइव पुश नोटिफिकेशन व सायरन।\n• सभी 32+ इंडस्ट्रियल टूल्स 100% मुफ़्त।",
+  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v5.9.11/Ankit_EleveX_v5.9.11_Release.apk",
+  "file_size": "24.1 MB"
 }
