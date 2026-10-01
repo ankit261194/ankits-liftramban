@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.9.7",
-  "version_code": 597,
+  "latest_version": "5.9.8",
+  "version_code": 598,
   "force_update": false,
-  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.7 Available!",
-  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.7 नया अपडेट उपलब्ध!",
-  "release_notes_en": "• Full Job Lifecycle Loop: In-Transit, On-Site, and Completed tracking.\n• 4-Digit Owner Security Closing OTP to prevent premature job closures.\n• 1-Click Service Invoice & Bill Generator pre-filling.\n• Zero-Cost Architecture bypassing Firebase paid setups.",
-  "release_notes_hi": "• पूर्ण जॉब लाइफसाइकिल: रास्ते में, साइट पर आगमन, व काम पूरा होने की लाइव स्थिति।\n• 4-अंकों का ग्राहक सुरक्षा क्लोजिंग OTP (काम पूरा होने पर ही क्लोज होगा)।\n• 1-क्लिक इनवॉइस व सर्विस बिल जनरेटर (सीधे व्हाट्सएप शेयर)।\n• ₹15,000 वाले महंगे Firebase से पूर्ण मुक्ति - शून्य खर्च मॉडल।",
-  "apk_download_url": "https://tinyurl.com/elevex-secure-ota-v597",
+  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.8 Available!",
+  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.8 नया अपडेट उपलब्ध!",
+  "release_notes_en": "• Redesigned Luxury Navy Theme with modern glassmorphic cards.\n• Interactive Scroll-Down Role Selection System: Tap role to smoothly reveal form below.\n• Streamlined 30-second registration with 4-digit MPIN and Fast2SMS OTP verification.\n• Zero Firebase cost architecture.",
+  "release_notes_hi": "• नई लग्जरी डार्क नेवी थीम - क्लासिक ग्लास-मॉर्फिज़्म व स्मूथ राउंडेड कार्ड्स।\n• 'किसको साइनअप करना है' नया स्क्रोल-डाउन रोल सेलेक्टर - रोल पर क्लिक करते ही नीचे फॉर्म खुलेगा।\n• 30 सेकंड में आसान रजिस्ट्रेशन (4-अंकीय MPIN व सुरक्षित SMS OTP)।\n• ₹15,000 वाले महंगे Firebase से पूर्ण मुक्ति - होस्टिंगर क्लाउड गेटवे।",
+  "apk_download_url": "https://tinyurl.com/elevex-secure-ota-v598",
   "file_size": "23.9 MB"
 }
