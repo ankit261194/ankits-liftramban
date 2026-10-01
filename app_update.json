@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.9.8",
-  "version_code": 598,
+  "latest_version": "5.9.9",
+  "version_code": 599,
   "force_update": false,
-  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.8 Available!",
-  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.8 नया अपडेट उपलब्ध!",
-  "release_notes_en": "• Redesigned Luxury Navy Theme with modern glassmorphic cards.\n• Interactive Scroll-Down Role Selection System: Tap role to smoothly reveal form below.\n• Streamlined 30-second registration with 4-digit MPIN and Fast2SMS OTP verification.\n• Zero Firebase cost architecture.",
-  "release_notes_hi": "• नई लग्जरी डार्क नेवी थीम - क्लासिक ग्लास-मॉर्फिज़्म व स्मूथ राउंडेड कार्ड्स।\n• 'किसको साइनअप करना है' नया स्क्रोल-डाउन रोल सेलेक्टर - रोल पर क्लिक करते ही नीचे फॉर्म खुलेगा।\n• 30 सेकंड में आसान रजिस्ट्रेशन (4-अंकीय MPIN व सुरक्षित SMS OTP)।\n• ₹15,000 वाले महंगे Firebase से पूर्ण मुक्ति - होस्टिंगर क्लाउड गेटवे।",
-  "apk_download_url": "https://tinyurl.com/elevex-secure-ota-v598",
-  "file_size": "23.9 MB"
+  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.9 Available!",
+  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.9 नया अपडेट उपलब्ध!",
+  "release_notes_en": "• 1 KM to 10,000 KM Operating Range: Technicians and Companies can now freely set their service radius from hyper-local (1 KM) up to nationwide PAN India (10,000 KM).\n• Multi-tier quick presets & Custom KM input dialog.\n• All 32+ tools and diagnostics are 100% Free forever.",
+  "release_notes_hi": "• 1 KM से 10,000 KM कार्य दायरा: तकनीशियन व कंपनियां अब 1 KM (अति-स्थानीय) से लेकर 10,000 KM (संपूर्ण भारत / PAN India) तक कार्य दायरा सेट कर सकते हैं।\n• मल्टी-टियर त्वरित प्रैसेट्स व कस्टम KM दर्ज करने की सुविधा।\n• सभी 32+ टूल्स, फॉल्ट कोड्स व साइनअप 100% मुफ़्त।",
+  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v5.9.9/Ankit_EleveX_v5.9.9_Release.apk",
+  "file_size": "22.6 MB"
 }
