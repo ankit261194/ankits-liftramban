@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.9.11",
-  "version_code": 601,
+  "latest_version": "5.9.12",
+  "version_code": 602,
   "force_update": false,
-  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.11 Available!",
-  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.11 नया अपडेट उपलब्ध!",
-  "release_notes_en": "• Official Razorpay Payment Gateway: UPI (GPay, PhonePe, Paytm), Cards & NetBanking direct settlement.\n• Instant Digital Invoice & 180-Day Pass activation.\n• OneSignal Push Notification Engine with Siren.\n• 100% Free Forever for all 32+ Industrial Diagnostics Tools.",
-  "release_notes_hi": "• आधिकारिक Razorpay पेमेंट गेटवे: UPI (GPay, PhonePe, Paytm), कार्ड्स व नेटबैंकिंग से बैंक खाता सेटलमेंट।\n• त्वरित डिजिटल इनवॉइस रसीद व 180-दिन पास सक्रियण।\n• OneSignal लाइव पुश नोटिफिकेशन व सायरन।\n• सभी 32+ इंडस्ट्रियल टूल्स 100% मुफ़्त।",
-  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v5.9.11/Ankit_EleveX_v5.9.11_Release.apk",
-  "file_size": "24.1 MB"
+  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.12 Available!",
+  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.12 नया अपडेट उपलब्ध!",
+  "release_notes_en": "• Superadmin-Regulated Coupon System: ANKIT100, RAMBAN50, ELEVEX10, AMC1000 with live 18% GST recalculation.\n• Dedicated UPI Payment: 8006518960 (8006518960@paytm).\n• Transparent GST Pricing: ₹599 + 18% GST (₹707) Tech Pass, ₹5,999 + 18% GST (₹7,079) Company Pass.\n• Digital GST Tax Invoice Receipt with itemized coupon & GST.\n• Razorpay Payment Gateway + Backup QR Code.\n• All 32+ Industrial Engineering Tools 100% Free Forever.",
+  "release_notes_hi": "• सुपरएडमिन कूपन डिस्काउंट सिस्टम: ANKIT100, RAMBAN50, ELEVEX10, AMC1000 व लाइव 18% GST री-कैलकुलेशन।\n• आधिकारिक UPI भुगतान: 8006518960 (8006518960@paytm)।\n• पारदर्शी GST मूल्य: ₹599 + 18% GST (₹707) टेक्नीशियन पास, ₹5,999 + 18% GST (₹7,079) कंपनी पास।\n• डिजिटल GST टैक्स इनवॉइस रसीद (कूपन व GST ब्रेकअप)।\n• Razorpay पेमेंट गेटवे + बैकअप QR कोड।\n• सभी 32+ इंडस्ट्रियल टूल्स 100% मुफ़्त।",
+  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v5.9.12/Ankit_EleveX_v5.9.12_Release.apk",
+  "file_size": "24.2 MB"
 }
