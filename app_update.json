@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.9.6",
-  "version_code": 596,
+  "latest_version": "5.9.7",
+  "version_code": 597,
   "force_update": false,
-  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.6 Available!",
-  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.6 नया अपडेट उपलब्ध!",
-  "release_notes_en": "• Persistent Device Session: Login once, never asked for OTP again.\n• Bulletproof Anti-Misuse Shield: 60s cooldown, max 3 OTPs/day/number, IP rate limit.\n• Fast2SMS OTP Gateway Integration.\n• Zero-Cost MPIN login option.",
-  "release_notes_hi": "• स्थायी डिवाइस सत्र (Persistent Session): एक बार लॉगिन करें, फोन पर दोबारा कभी OTP की आवश्यकता नहीं।\n• दुरुपयोग-रोधी कवच (Anti-Misuse Shield): 60 सेकंड कूलडाउन, प्रतिदिन अधिकतम 3 OTP सीमा, IP रेट लिमिटिंग।\n• Fast2SMS क्विक OTP गेटवे सपोर्ट।\n• शून्य-खर्च MPIN लॉगिन विकल्प।",
-  "apk_download_url": "https://tinyurl.com/elevex-secure-ota-v596",
-  "file_size": "66.7 MB"
+  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.7 Available!",
+  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.7 नया अपडेट उपलब्ध!",
+  "release_notes_en": "• Full Job Lifecycle Loop: In-Transit, On-Site, and Completed tracking.\n• 4-Digit Owner Security Closing OTP to prevent premature job closures.\n• 1-Click Service Invoice & Bill Generator pre-filling.\n• Zero-Cost Architecture bypassing Firebase paid setups.",
+  "release_notes_hi": "• पूर्ण जॉब लाइफसाइकिल: रास्ते में, साइट पर आगमन, व काम पूरा होने की लाइव स्थिति।\n• 4-अंकों का ग्राहक सुरक्षा क्लोजिंग OTP (काम पूरा होने पर ही क्लोज होगा)।\n• 1-क्लिक इनवॉइस व सर्विस बिल जनरेटर (सीधे व्हाट्सएप शेयर)।\n• ₹15,000 वाले महंगे Firebase से पूर्ण मुक्ति - शून्य खर्च मॉडल।",
+  "apk_download_url": "https://tinyurl.com/elevex-secure-ota-v597",
+  "file_size": "23.9 MB"
 }
