@@ -1,11 +1,11 @@
 {
-    "release_notes_hi":  "• ⚡ डायरेक्ट इन-ऐप ऑटो अपडेट (बिना ब्राउज़र खोले ऐप के अंदर ही डाउनलोड व अपडेट)\n• 🛡️ ऐप ओपन होते ही वाइट स्क्रीन की समस्या का स्थायी समाधान\n• 🌐 Firebase Cloud Firestore लाइव सिंक (ब्रेकडाउन लीड्स व लिफ्ट डेटा)\n• 📷 साइट फॉल्ट फोटो अटैचमेंट व Google Maps नेविगेशन\n• ⭐ 5-स्टार कस्टमर रेटिंग व रिव्यू सिस्टम",
-    "release_notes_en":  "• ⚡ Direct In-App Auto Update (Downloads and updates directly inside app without opening browser)\n• 🛡️ Permanent fix for startup white screen lag with Instant Dark Boot\n• 🌐 Firebase Cloud Firestore Live Multi-Device Sync for Leads\n• 📷 Camera/Gallery Site Fault Photo \u0026 Google Maps Navigation\n• ⭐ 5-Star Customer Rating \u0026 Review System",
-    "version_code":  610,
-    "apk_download_url":  "https://github.com/ankit261194/ankits-liftramban/releases/download/v5.9.19/Ankit_EleveX_v5.9.19_Release.apk",
-    "title_en":  "🚀 New Direct In-App Update Available (v5.9.20)!",
-    "latest_version":  "5.9.20",
-    "file_size":  "75.8 MB",
-    "title_hi":  "🚀 नया इन-ऐप ऑटो अपडेट उपलब्ध है (v5.9.20)!",
-    "force_update":  false
+  "latest_version": "5.9.21",
+  "version_code": 611,
+  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v5.9.19/Ankit_EleveX_v5.9.21_Release.apk",
+  "file_size": "38.1 MB",
+  "force_update": false,
+  "title_hi": "🚀 नया इन-ऐप ऑटो अपडेट उपलब्ध है (v5.9.21)!",
+  "title_en": "🚀 New Direct In-App Update Available (v5.9.21)!",
+  "release_notes_hi": "• ⚡ डायरेक्ट इन-ऐप ऑटो अपडेट (बिना ब्राउज़र खुले ऐप के अंदर ही डाउनलोड व अपडेट)\n• 🛡️ ऐप ओपन होते ही वाइट स्क्रीन की समस्या का स्थायी समाधान (डार्क बूट थीम)\n• 🌐 Firebase Cloud Firestore लाइव सिंक (ब्रेकडाउन लीड्स व लिफ्ट डेटा)\n• 📷 साइट फॉल्ट फोटो अटैचमेंट व Google Maps नेविगेशन\n• ⭐ 5-स्टार कस्टमर रेटिंग व रिव्यू सिस्टम",
+  "release_notes_en": "• ⚡ Direct In-App Auto Update (Downloads and updates directly inside app without opening browser)\n• 🛡️ Permanent fix for startup white screen lag with Instant Dark Boot\n• 🌐 Firebase Cloud Firestore Live Multi-Device Sync for Leads\n• 📷 Camera/Gallery Site Fault Photo and Google Maps Navigation\n• ⭐ 5-Star Customer Rating and Review System"
 }
