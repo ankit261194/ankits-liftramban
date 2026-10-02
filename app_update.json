@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.9.15",
-  "version_code": 605,
-  "force_update": false,
-  "title_en": "ANKIT ELEVEX ULTIMATE v5.9.15 Available!",
-  "title_hi": "अंकित एलेवेक्स अल्टीमेट v5.9.15 नया अपडेट उपलब्ध!",
-  "release_notes_en": "• Dedicated Full Screens: Real WhatsApp Support, VIP Recharge Gateway, and Live Bulletins.\n• Direct 1-Tap Real WhatsApp Chat to Lead Engineer Ankit Chaudhary (+91 8533955333).\n• Clean Inline Role Dropdown (DropdownButtonFormField) on Signup Screen.\n• Intuitive Theme Dropdown (PopupMenuButton) on Dashboard Row 1.\n• Fixed OTA APK download URL directly serving authentic binary (zero package invalid errors).\n• Zero Dummies: 100% functional enterprise elevator engineering OS.",
-  "release_notes_hi": "• अलग-अलग डेडिकेटेड फुल स्क्रीन्स: रियल WhatsApp सपोर्ट, VIP रिचार्ज व लाइव नोटिस।\n• सीनियर इंजीनियर अंकित चौधरी (+91 8533955333) से सीधे रियल WhatsApp पर 1-टैप चैट।\n• साइनअप स्क्रीन पर राज्य की तरह साफ-सुथरा रोल ड्रॉपडाउन मेनू (DropdownButtonFormField)।\n• डैशबोर्ड रो 1 पर 1-टैप थीम ड्रॉपडाउन मेनू (PopupMenuButton)।\n• 100% सही APK बाइनरी डाउनलोड लिंक (Package appears invalid एरर हमेशा के लिए फिक्स)।\n• 100% रियल व बिना किसी डमी के वर्किंग एंटरप्राइज लिफ्ट ओएस।",
-  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v5.9.15/Ankit_EleveX_v5.9.15_Release.apk",
-  "file_size": "72.3 MB"
+    "release_notes_hi":  "• 100% प्योर डायनामिक UPI QR व 1-टैप ऐप स्विच (PhonePe, GPay, Paytm) - 0% शुल्क\n• 12-अंकीय बैंक UTR सबमिशन व सुपर एडमिन इंस्टेंट अप्रूवल लेजर\n• लाउड इमरजेंसी ब्रेकडाउन ऑडियो सायरन व वाइब्रेशन अलर्ट्स\n• 25 KM राडार व डिवाइस परमिशन्स गेटवे\n• 100% Razorpay निष्कासन व 4MB लाइटवेट स्पीड",
+    "release_notes_en":  "• Pure Dynamic UPI QR \u0026 1-Tap App-Switch (PhonePe, GPay, Paytm) - 100% Direct Bank Settlement\n• 12-Digit Bank UTR Submission \u0026 Super Admin Approval Ledger\n• Loud Emergency Breakdown Audio Siren \u0026 Continuous Haptic Pulsing for Technicians\n• 25 KM Proximity Radar \u0026 Device Permissions Gateway\n• Zero Gateway Fees: 100% Razorpay Elimination \u0026 Faster Performance",
+    "version_code":  608,
+    "apk_download_url":  "https://github.com/ankit261194/ankits-liftramban/releases/download/v5.9.18/Ankit_EleveX_v5.9.18_Release.apk",
+    "title_en":  "ANKIT ELEVEX ULTIMATE v5.9.18 (Pure Dynamic UPI \u0026 Emergency Siren) Available!",
+    "latest_version":  "5.9.18",
+    "file_size":  "72.8 MB",
+    "title_hi":  "अंकित एलेवेक्स अल्टीमेट v5.9.18 (प्योर UPI QR व इमरजेंसी सायरन) नया अपडेट उपलब्ध!",
+    "force_update":  false
 }
