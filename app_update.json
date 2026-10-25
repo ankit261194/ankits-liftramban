@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.9.37",
-  "version_code": 627,
+  "latest_version": "5.9.38",
+  "version_code": 628,
   "force_update": true,
-  "title_en": "⚡ v5.9.37 (Build 627): 100% Pure SMS OTP & Zero Dummy Data!",
-  "title_hi": "⚡ v5.9.37 (बिल्ड 627): 100% शुद्ध SMS OTP व शून्य डमी डेटा!",
-  "release_notes_en": "• No On-Screen OTP Box: The instant security code box has been completely removed. OTP is delivered confidentially via SMS to your SIM.\n• Zero Dummy Records: Complete eradication of fake companies, fake employees, and fake inventory.\n• Live Version Stamp: Clean visible v5.9.37 (Build 627) badge on the login screen.\n• Seamless In-App & Direct Update.",
-  "release_notes_hi": "• स्क्रीन पर OTP बॉक्स पूरी तरह बंद: स्क्रीन पर दिखने वाला कोड बॉक्स हमेशा के लिए हटा दिया गया है। OTP केवल आपके सिम पर गुप्त SMS द्वारा आएगा।\n• शून्य डमी डेटा: सभी फ़र्ज़ी कंपनी, कर्मचारी व पार्ट्स हमेशा के लिए साफ़।\n• लाइव वर्ज़न पहचान: लॉगिन स्क्रीन पर स्पष्ट v5.9.37 (Build 627) बैज।\n• सिंगल-डिवाइस पूर्ण सुरक्षा।",
-  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v5.9.37/Ankit_EleveX_v5.9.37_Final.apk",
+  "title_en": "⚡ v5.9.38 (Build 628): 100% Pure SMS OTP & Zero Dummy Data!",
+  "title_hi": "⚡ v5.9.38 (बिल्ड 628): 100% शुद्ध SMS OTP व शून्य डमी डेटा!",
+  "release_notes_en": "• No On-Screen OTP Box: The instant security code box has been completely removed. OTP is delivered confidentially via SMS to your SIM.\n• Zero Dummy Records: Complete eradication of fake companies, fake employees, and fake inventory.\n• Live Version Stamp: Clean visible v5.9.38 (Build 628) badge on the login screen.\n• Seamless In-App & Direct Update.",
+  "release_notes_hi": "• स्क्रीन पर OTP बॉक्स पूरी तरह बंद: स्क्रीन पर दिखने वाला कोड बॉक्स हमेशा के लिए हटा दिया गया है। OTP केवल आपके सिम पर गुप्त SMS द्वारा आएगा।\n• शून्य डमी डेटा: सभी फ़र्ज़ी कंपनी, कर्मचारी व पार्ट्स हमेशा के लिए साफ़।\n• लाइव वर्ज़न पहचान: लॉगिन स्क्रीन पर स्पष्ट v5.9.38 (Build 628) बैज।\n• सिंगल-डिवाइस पूर्ण सुरक्षा।",
+  "apk_download_url": "https://github.com/ankit261194/ankits-liftramban/releases/download/v5.9.38/Ankit_EleveX_v5.9.38_Final.apk",
   "file_size": "40.8 MB"
 }
